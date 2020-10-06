@@ -86,7 +86,8 @@ while(decision == ""):
         print("You signed your ticket and got sent on you way with 10 ticket")
         print("Now you need to hide and wait till it is safe to walk on the street")
         player_money -= 10
-        print("Your money now: ")
+        print("Your money now: ")password
+        
         print(player_money)
 print()
 time.sleep(1)
